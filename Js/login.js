@@ -30,7 +30,7 @@ function passvalid()
     }
     else
     {
-        form[0].action="./html/home.html"
+        form[0].action="./Html/home.html"
         form[0].elements[2].type="Submit"
     }
 }
